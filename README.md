@@ -1,5 +1,6 @@
 ## Hi, I'm Karthik 👋
-I am an AI & Machine Learning developer and Data Science student from India, focused on building real-world, end-to-end ML systems - not just notebooks
+I am an AI & Machine Learning developer and Data Science student from India, focused on building real-world, end-to-end ML systems - not just notebooks.
+
 I enjoy turning data into working products using APIs, dashboards, and clean ML pipelines.
 
 ---
