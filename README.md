@@ -5,18 +5,18 @@ I enjoy turning data into working products using APIs, dashboards, and clean ML 
 
 ---
 
-## Skills & Tools
-**Languages:** Python, SQL
-**ML & Data:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-**Frameworks:** FastAPI, Streamlit
-**Concepts:** EDA, Feature Engineering, Classification, Clustering, Model Evaluation (ROC, F1)
-**Deployment:** REST APIs, Streamlit Cloud, Render
-**Other:** Git, GitHub
+## 🛠 Skills & Tools
+- **Languages:** Python, SQL
+- **ML & Data:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Frameworks:** FastAPI, Streamlit
+- **Concepts:** EDA, Feature Engineering, Classification, Clustering, Model Evaluation (ROC, F1)
+- **Deployment:** REST APIs, Streamlit Cloud, Render
+- **Other:** Git, GitHub
 
 ---
 
 ## 🚀 Projects
-### 🩸Anemia Risk Detection System
+### 🩸Anemia Risk Detection System (Production ML Application)
 End-to-end ML application for healthcare risk prediction
 - Built ML classification model
 - REST API using FastAPI
