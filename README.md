@@ -71,4 +71,4 @@ Tech: Python, Pandas, Scikit-learn
 
 ---
 
-If u like my work, feel free to follow or collaborate 🙂
+If you like my work, feel free to follow or collaborate 🙂
